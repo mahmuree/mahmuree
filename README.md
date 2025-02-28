@@ -1,5 +1,5 @@
-# 💫 About Me:
-Frontend Developer | React & React Native | Tech Content Creator
+<h1 align="center">Hi 👋, I'm Mahmure Beyza</h1>
+<h3 align="center">Frontend Developer | React & React Native | Tech Content Creator</h3>
 
 
 ## 🌐 Socials:
